@@ -1,0 +1,15 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "first express demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hgx",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.4.1",
+    "express": "^4.13.4"
+  }
+}
