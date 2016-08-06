@@ -1,1 +1,4 @@
-"moment": "2.12.0"
+https://www.npmjs.com/package/request
+
+https://www.npmjs.com/package/lodash
+https://lodash.com/docs

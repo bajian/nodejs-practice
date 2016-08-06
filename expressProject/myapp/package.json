@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "q": "^1.4.1",
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "bcryptjs": "2.3.0",
+    "xss": "0.2.10",
+    "eventproxy": "0.3.4"
   }
 }
